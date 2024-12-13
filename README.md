@@ -33,6 +33,13 @@ The knowledge base is built using shooting-related PDFs collected from various o
 - Anti-doping Rules
 - Disqualification rules <br>
 
+## Prerequisites
+
+Python 3.8+
+Pinecone API key
+OpenAI API key
+Flask
+Langchain
 
 ## Installation & Setup
 **1. Clone the Repository:** <br>
