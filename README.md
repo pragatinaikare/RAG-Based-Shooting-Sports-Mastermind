@@ -50,7 +50,10 @@ pip install -r requirements.txt
 **3. Set Up API Keys:** 
 You will need to create accounts with Pinecone and OpenAI to get your API keys. Add these keys in keys.txt file inside Docs Folder
 
-
+**4.** 
+```bash
+pip install -r requirements.txt
+```
 
 ## References
 1] [Searching for Best Practices in Retrieval-Augmented Generation](https://arxiv.org/abs/2407.01219)<br>
