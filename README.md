@@ -24,15 +24,6 @@ Recognizing this need, I started working on a RAG-based chatbot a few weeks ago 
 * 𝗖𝗜/𝗖𝗗: GitHub Actions
 * 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁: Heroku
 
-## Data Sources
-The knowledge base is built using shooting-related PDFs collected from various online and offline sources. The PDF content includes, but is not limited to:
- <br>
-- Weapon setup guidelines (Rifle/Pistol/Shotgun)<br>
-- Safety protocols <br>
-- Measurement rules <br>
-- Anti-doping Rules
-- Disqualification rules <br>
-
 ## Prerequisites
 
 Python 3.8+
