@@ -10,11 +10,8 @@ While practicing, I often had to deal with the complicated rules and regulations
 
 Recognizing this need, I started working on a RAG-based chatbot a few weeks ago to streamline this process! I gathered comprehensive shooting-related handbooks, including those from the ISSF - International Shooting Sport Federation, and developed a chatbot to provide quick and accurate responses about shooting rules and regulations for both shooters and juries.<br>
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="Images/i1.webp" alt="Image 1" width="400"/>     
-  <img src="Images/i2.jpeg" alt="Image 2" width="400"/>
-</div>
-
+## Workflow
+ <img src="Images/i1.webp" alt="Image 3" width="600"/> 
 
 ## Tech Stack
 
@@ -57,4 +54,12 @@ pip install -r requirements.txt
 1] [Searching for Best Practices in Retrieval-Augmented Generation](https://arxiv.org/abs/2407.01219)<br>
 2] [Context Embeddings for Efficient Answer Generation in RAG](https://arxiv.org/abs/2407.09252)<br>
 3] [RAGAS: Automated Evaluation of Retrieval-Augmented Generation](https://arxiv.org/abs/2309.15217)<br>
+
+## Pictures 
+
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="Images/i1.webp" alt="Image 1" width="400"/>     
+  <img src="Images/i2.jpeg" alt="Image 2" width="400"/>
+</div>
 
